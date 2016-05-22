@@ -1,0 +1,8 @@
+{
+	"name": "simple-node-clustering",
+	"description": "Very lightweight node app with clustering test",
+	"main": "server.js",
+	"dependencies": {
+		"express": "^4.x"
+	}
+}
